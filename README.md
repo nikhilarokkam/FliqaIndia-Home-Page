@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 2. Navigate into the project directory:
 
     ```bash
-   cd FliqaIndia-Homepage
+   cd FliqaIndia-Home-Page
 
 3. Install dependencies:
 
