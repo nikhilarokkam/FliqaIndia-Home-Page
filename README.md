@@ -43,3 +43,4 @@ The FliqaIndia homepage is currently deployed and accessible at: https://nikhila
 
 # Output
 
+![screencapture-nikhilarokkam-fliqaindia-netlify-app-2024-04-07-16_04_55](https://github.com/nikhilarokkam/FliqaIndia-Home-Page/assets/115566678/5042ad36-4c6b-480b-8947-e4e8755f1b45)
