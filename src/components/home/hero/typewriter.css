@@ -1,0 +1,36 @@
+.typewriter {
+    overflow: hidden;
+    border-right: 0.15em solid #1f2937; 
+    white-space: nowrap; 
+    margin: 0 auto; 
+    animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 9em;
+    }
+  }
+  
+  @keyframes blink-caret {
+    from,
+    to {
+      border-color: transparent;
+    }
+    50% {
+      border-color: #1f2937;
+    }
+  }
+  
+  .typing::after {
+    content: '|';
+    margin-left: 0.1em;
+  }
+  
+  .typing:last-child::after {
+    display: none;
+  }
+  
