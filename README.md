@@ -7,8 +7,6 @@
 
 
 
-
-
 Welcome to the FliqaIndia homepage repository! This repository contains the code for the homepage of FliqaIndia, designed using ReactJS.
 
 ## Overview
